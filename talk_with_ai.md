@@ -534,5 +534,8 @@ Created frontend/main.js
 > [!NOTE] 
 > 
 > 以上对话原汁原味，我使用Windsurf裁剪了一些无关赏析的代码行。   
-> 全程我靠嘴输出，Ai 靠“小聪明”。   
+> 全程我靠嘴输出。
+> 
 > 后续的BS的抽奖程序我也试了，也是可以的，唯一落下的就是中将人照片这个事情。两个项目的链接如下，大家可以自行下载感受。当然自己用嘴制作最爽。
+> https://github.com/lifu2015/choujiang         
+> https://github.com/lifu2015/choujiang-web
